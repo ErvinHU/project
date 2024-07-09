@@ -1,0 +1,14 @@
+C:\Users\mondo\source\repos\Todo\Todo\bin\Debug\net6.0\Todo.exe
+C:\Users\mondo\source\repos\Todo\Todo\bin\Debug\net6.0\Todo.deps.json
+C:\Users\mondo\source\repos\Todo\Todo\bin\Debug\net6.0\Todo.runtimeconfig.json
+C:\Users\mondo\source\repos\Todo\Todo\bin\Debug\net6.0\Todo.dll
+C:\Users\mondo\source\repos\Todo\Todo\bin\Debug\net6.0\Todo.pdb
+C:\Users\mondo\source\repos\Todo\Todo\obj\Debug\net6.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mondo\source\repos\Todo\Todo\obj\Debug\net6.0\Todo.AssemblyInfoInputs.cache
+C:\Users\mondo\source\repos\Todo\Todo\obj\Debug\net6.0\Todo.AssemblyInfo.cs
+C:\Users\mondo\source\repos\Todo\Todo\obj\Debug\net6.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\mondo\source\repos\Todo\Todo\obj\Debug\net6.0\Todo.dll
+C:\Users\mondo\source\repos\Todo\Todo\obj\Debug\net6.0\refint\Todo.dll
+C:\Users\mondo\source\repos\Todo\Todo\obj\Debug\net6.0\Todo.pdb
+C:\Users\mondo\source\repos\Todo\Todo\obj\Debug\net6.0\Todo.genruntimeconfig.cache
+C:\Users\mondo\source\repos\Todo\Todo\obj\Debug\net6.0\ref\Todo.dll
