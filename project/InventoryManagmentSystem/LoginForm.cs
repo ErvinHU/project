@@ -57,6 +57,24 @@ namespace InventoryManagmentSystem
             }
         }
 
+        private void lblClear_Click(object sender, EventArgs e)
+        {
+            txtName.Clear();
+            txtPass.Clear();
+        }
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Kívánja bezárni a programot?", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            PerformLogin();
+        }
+
         private void txtName_TextChanged(object sender, EventArgs e)
         {
 
@@ -108,23 +126,9 @@ namespace InventoryManagmentSystem
             }
         }
 
-        private void lblClear_Click_1(object sender, EventArgs e)
+        private void minimizeWindow_Click(object sender, EventArgs e)
         {
-            txtName.Clear();
-            txtPass.Clear();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnClose_Click(object sender, EventArgs e)
-        {
-            if (MessageBox.Show("Kívánja bezárni a programot?", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
-            {
-                Application.Exit();
-            }
+            this.WindowState = FormWindowState.Minimized;
         }
     }
 }
